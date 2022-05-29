@@ -2,11 +2,12 @@
 
 ### To Checkout the live demo of this Project <a href="https://syngenta-reactjs-balloon-assignment.netlify.app/">Click Here</a>
 
-### Problem Statement:~
+### Problem Statement:~ [ReactJS-Balloon-Assignment.pdf](https://github.com/Satyamall/Syngenta-ReactJS-Balloon-Assignment/files/8792893/ReactJS-Balloon-Assignment.pdf)
 Create an empty box, 5 circles each of unique colours. The colour generation method should randomly pick and assign one of the five colours to the circles. A text box that will take numeric input and a button named “shoot”.
  
   - A user can enter a number in the text box and click shoot button. This would move the corresponding circle into the empty div.
   - The user can get back the circles that were shot by clicking the corresponding circles residing in the empty div.
+  
 
 ### Steps to run this project:~
 #### Open your terminal and navigate to a folder where you want to run this project:
