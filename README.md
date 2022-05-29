@@ -3,3 +3,22 @@ This assignment related to React JS. In assignment an empty box, 5 circles each 
  
   - A user can enter a number in the text box and click shoot button. This would move the corresponding circle into the empty div.
   - The user can get back the circles that were shot by clicking the corresponding circles residing in the empty div.
+
+
+Start in your local machine:
+ - First clone this repo with following command.
+ ```js
+ git clone https://github.com/Satyamall/Syngenta-ReactJS-Balloon-Assignment.git
+ ```
+
+- Second move inside the clone folder.
+
+- Third run the bellow command inside clone folder in the terminal.
+```js
+npm install
+```
+```js
+npm run start
+//or
+npm start
+```
