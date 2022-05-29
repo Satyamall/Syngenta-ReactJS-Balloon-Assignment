@@ -1,28 +1,30 @@
 # Syngenta-ReactJS-Balloon-Assignment
 
-You can see it on Live <a href="https://syngenta-reactjs-balloon-assignment.netlify.app/">Click Here</a>
+### To Checkout the live demo of this Project <a href="https://syngenta-reactjs-balloon-assignment.netlify.app/">Click Here</a>
 
-This assignment related to React JS. In assignment an empty box, 5 circles each of unique colours. The colour generation method should randomly pick and assign one of the five colours to the circles. A text box that will take numeric input and a button named “shoot”.
+### Problem Statement:~
+Create an empty box, 5 circles each of unique colours. The colour generation method should randomly pick and assign one of the five colours to the circles. A text box that will take numeric input and a button named “shoot”.
  
   - A user can enter a number in the text box and click shoot button. This would move the corresponding circle into the empty div.
   - The user can get back the circles that were shot by clicking the corresponding circles residing in the empty div.
 
-
-# Start in your local machine:
- - First clone this repo with following command.
+### Steps to run this project:~
+#### Open your terminal and navigate to a folder where you want to run this project:
+ - Step.1 clone this repository in your system using the following command
  ```js
  git clone https://github.com/Satyamall/Syngenta-ReactJS-Balloon-Assignment.git
  ```
-- Second move inside the clone folder.
-
-- Third run the bellow commands inside clone folder in the terminal.
+- Step.2 Now navigate inside the project directory using the following command 
 ```js
-npm install
+ cd Syngenta-ReactJS-Balloon-Assignment
 ```
+- Step.3 Install the required packages to run this project using the following command 
 ```js
-npm run start
-//or
-npm start
+ npm install
+```
+- Step.4 To run this project run the following command into your terminal 
+```js
+ npm run start
 ```
 
  # Instruction for use: 
