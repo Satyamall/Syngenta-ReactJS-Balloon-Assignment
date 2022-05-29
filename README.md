@@ -33,7 +33,7 @@ Create an empty box, 5 circles each of unique colours. The colour generation met
 
 <br/>
 
-Images of Assignment how it look like and how it work.
+### Images of Assignment how it looks like and how it works.
 
 ![Screenshot (443)](https://user-images.githubusercontent.com/80479635/170857445-f6cf3277-e020-410d-996c-4dc65ca3ac32.png)
 ![Screenshot (444)](https://user-images.githubusercontent.com/80479635/170857449-03491de2-c706-46ea-a00a-4e699b00e331.png)
