@@ -25,6 +25,10 @@ npm run start
 npm start
 ```
 
+ Instruction for use:
+  - Type the number between 1 to 5 in Text box and click on Shoot button. You able to see that circle show inside the empty box.
+  - You want to remove circle from empty box and send it to original position then **you click on that circle inside empty box**. You will able to see it move back to its original position.
+
 Images of Assignment how it look like and how it work.
 
 ![Screenshot (443)](https://user-images.githubusercontent.com/80479635/170857445-f6cf3277-e020-410d-996c-4dc65ca3ac32.png)
